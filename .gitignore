@@ -1,0 +1,14 @@
+/target/
+cache.db.*
+.classpath
+.settings
+.project
+*.iml
+/.idea/
+*.out
+/rpmbuild/RPMS/
+/rpmbuild/SRPMS/
+/rpmbuild/SOURCES/
+/rpmbuild/BUILD/
+/rpmbuild/BUILDROOT/
+/logs/
